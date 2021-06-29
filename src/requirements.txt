@@ -1,0 +1,6 @@
+# https://github.com/xunzheng/notears
+numpy
+pandas
+sklearn
+sympy
+python-igraph
