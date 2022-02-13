@@ -8,7 +8,7 @@ If you find this code useful, please consider citing:
 ```
 @article{reisach2021beware,
   title={Beware of the Simulated DAG! Causal Discovery Benchmarks May Be Easy to Game},
-  author={Reisach, Alexander and Seiler, Christof and Weichwald, Sebastian},
+  author={Reisach, Alexander G. and Seiler, Christof and Weichwald, Sebastian},
   journal={Advances in Neural Information Processing Systems},
   volume={34},
   year={2021}
