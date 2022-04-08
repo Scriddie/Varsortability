@@ -2,7 +2,18 @@
 
 This repository contains stand-alone implementations of **varsortability**, **sortnregress**, and **chain-orientation** as presented in 
 
-[1] Reisach, A. G., Seiler, C., & Weichwald, S. (2021). [Beware of the Simulated DAG! Causal Discovery Benchmarks May Be Easy To Game](https://arxiv.org/abs/2102.13647)
+[1] Reisach, A. G., Seiler, C., & Weichwald, S. (2021). [Beware of the Simulated DAG! Causal Discovery Benchmarks May Be Easy To Game](https://proceedings.neurips.cc/paper/2021/file/e987eff4a7c7b7e580d659feb6f60c1a-Paper.pdf)
+
+If you find this code useful, please consider citing:
+```
+@article{reisach2021beware,
+  title={Beware of the Simulated DAG! Causal Discovery Benchmarks May Be Easy to Game},
+  author={Reisach, Alexander G. and Seiler, Christof and Weichwald, Sebastian},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  year={2021}
+}
+```
 
 To run, perform the following actions **within the /src directory**:
 
