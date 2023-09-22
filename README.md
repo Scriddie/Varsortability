@@ -1,5 +1,7 @@
 # Beware of the Simulated DAG! Causal Discovery Benchmarks May Be Easy To Game
 
+**[Update 09/2023]** Our new library [CausalDisco](https://causaldisco.github.io/CausalDisco/) provides the baseline algorithms and analytics tools presented here, as well as a [new scale-invariant version](https://arxiv.org/abs/2303.18211) in a single python package for causal discovery benchmarking.
+
 This repository contains stand-alone implementations of **varsortability**, **sortnregress**, and **chain-orientation** as presented in 
 
 [1] Reisach, A. G., Seiler, C., & Weichwald, S. (2021). [Beware of the Simulated DAG! Causal Discovery Benchmarks May Be Easy To Game](https://proceedings.neurips.cc/paper/2021/file/e987eff4a7c7b7e580d659feb6f60c1a-Paper.pdf).
